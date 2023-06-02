@@ -1,0 +1,90 @@
+
+.home{
+    background-image: url(img3.jpg);
+    background-size: 100% 100%;
+    text-align: center;
+    height: 100vh;
+    padding-top: 130px;
+    color: white;
+}
+.home p{
+    font-family:'Dancing script',cursive;
+    font-size: 30px;
+    color: rgb(183, 189, 193);
+}
+.home h1{
+    font-size: 50px;
+}
+.home button{
+    padding: 10px 10px 10px 10px;
+}
+.descover{
+    overflow: hidden;
+    margin-bottom: 20px;
+}
+.descover .text{
+    width: 60%;
+    float: left;
+    text-align: center;
+    margin-top: 50px;
+}
+.descover .photo img{
+    width: 40%;
+    float: left;
+    margin-top: 20px; 
+}
+.descover .photo .text p{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.descover ul{
+    float: left;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.part2{
+    background-color: rgb(241, 237, 237);
+    overflow: hidden;
+    margin-bottom: 20px;    
+}
+.part2 .text{
+    float:right;
+    width: 60%;
+    text-align: center;
+    margin-top: 70px;
+}
+.part2 .photo{
+    float:right;
+    width: 40%;
+    margin-top: 20px
+}
+.part2 img{
+    width: 100%;
+}
+.items .x{
+    text-align: center;
+}
+.item1{
+    width:32.33%;
+    text-align: center;
+   display: inline-block;
+}
+.items img{
+   width: 100%;
+}
+.maps{
+    background-color:rgb(241, 237, 237);
+    overflow: hidden;
+    width: 100%;
+}
+.photomap img{
+    width: 40%;
+    float:right;
+    height: 300px;
+}
+.contact{
+    float: right;
+    text-align: center;
+    width: 60%;
+    margin-top: 20px;
+}
